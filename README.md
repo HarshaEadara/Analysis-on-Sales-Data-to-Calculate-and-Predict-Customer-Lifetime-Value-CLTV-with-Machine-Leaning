@@ -1,4 +1,4 @@
-# Analysis-on-Sales-Data-to-Calculate-and-Predict-Customer-Lifetime-Value-CLTV-with-Machine-Leaning
+# Analysis on SalesData to Calculate and Predict Customer Lifetime Value CLTV with Machine Leaning
 This repository contains a Jupyter Notebook for analyzing sales data and predicting Customer Lifetime Value (CLTV) using machine learning techniques. The project utilizes the 'Turkish Market Sales' dataset from Kaggle to estimate CLTV, compute RFM (Recency, Frequency, Monetary) metrics, and forecast customer behavior, ultimately providing actionable insights for business growth and retention strategies.
 
 ## Table of Contents
