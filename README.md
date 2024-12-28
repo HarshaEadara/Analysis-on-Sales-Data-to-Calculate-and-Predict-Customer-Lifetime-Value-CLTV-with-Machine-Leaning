@@ -89,7 +89,7 @@ The project is implemented using:
 | XGBoost             | 0.66      | 0.78   | 0.69     | 78.0%    |
 
 ### Best Model
-Among the models evaluated, Logistic Regression emerged as the best-performing model, attaining the highest accuracy of 78.3%. It also maintained a high recall and balanced F1-score. The high accuracy and strong recall indicate that Logistic Regression is highly effective at correctly identifying positive cases with reliability. Other models, such as Gradient Boosting and XGBoost, also performed admirably, achieving accuracies of 78.2% and 78.0%, respectively, making them strong alternatives. However, Logistic Regression stands out for its balance between precision, recall, and overall accuracy, making it the most suitable model for this classification task.
+Among the models evaluated, **Logistic Regression** emerged as the best-performing model, attaining the highest accuracy of 78.3%. It also maintained a high recall and balanced F1-score. The high accuracy and strong recall indicate that Logistic Regression is highly effective at correctly identifying positive cases with reliability. Other models, such as Gradient Boosting and XGBoost, also performed admirably, achieving accuracies of 78.2% and 78.0%, respectively, making them strong alternatives. However, Logistic Regression stands out for its balance between precision, recall, and overall accuracy, making it the most suitable model for this classification task.
  
 ### Key Insights
 - **Model Performance:** The **Logistic Regression** and **Gradient Boosting** models achieved the best accuracy, with scores of **78.3%** and **78.2%**, respectively, indicating they are the most effective for predicting CLTV in this dataset.
